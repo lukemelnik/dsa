@@ -1,4 +1,4 @@
-// Kadanes algorithm -
+// Kadanes algorithm 0(n)
 // Every new entry sees the sum before it as either positive or negative
 // if the previous sum is negative, it starts the count over (i.e currSum is set to zero)
 
